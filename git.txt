@@ -1,3 +1,1 @@
-xxxxxxxxxxxxxxxxxxx
-yyyyyyyyyyyyyyyyy
-zzzzzzzzzzzzzzzzzzz
+check revert chmages in git remote repo
